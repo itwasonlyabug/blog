@@ -1,5 +1,15 @@
-# Outer Wilds
++++
+title = "Outer Wilds"
+date = "2020-01-01"
+description = "Truly the GOAT"
+tags = [
+    "games",
+    "goat",
+]
++++
+
 https://annapurnainteractive.com/games/outer-wilds
+<!--more-->
 
 ## TL;DR
 Amazing game, wonderful world, best feeling of  exploration I have ever seen. Soundtrack fits nicely. Truly awe-inspiring world building and physics. Graphics are kind of meh.
@@ -9,18 +19,14 @@ You pilot your space-ship around a solar system and explore various planets. Aft
 
 The flying feels nice and the scale of the solar system is just right to make you feel like you are actually travelling in space, but small enough to not feel boring and empty.
 
-{{% spoiler %}}
 The time-loop is used masterfully to give you a sense of urgency and make you plan ahead.
-{{% /spoiler %}}
 
 ## Thoughts
 This game is a one of a kind. The exploration in the core gameplay loop is something that is completely engrossing. The world felt real and not like ticking boxes around a "map". 
 
 I have never felt so much wonder, and amazement at a video game world. The archeology aspect of it is :chefs_kiss:.
 
-{{% spoiler %}}
 The ship's controls are fun and the race against time is well-balanced. You have enough time to explore but not enough to make a ton of progress at once (until you beat the game ofcourse). 
-{{% /spoiler %}}
 
 The most beautiful part is that you can finish the game first try - technically. But until you get familiar with the world, it's impossible.
 
