@@ -64,9 +64,9 @@ url = "https://orcid.org/0000-0001-2345-6789"
     url = "/it/"
     weight = 30
   [[menu.main]]
-    identifier = "all-posts"
+    identifier = "posts"
     name = "All posts"
-    url = "/allposts/"
+    url = "/posts/"
     weight = 40
 
 [taxonomies]
