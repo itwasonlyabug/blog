@@ -1,7 +1,6 @@
 +++
 title = "Outer Wilds"
 date = "2020-01-01"
-description = "Truly the GOAT"
 tags = [
     "games",
     "goat",
@@ -9,10 +8,8 @@ tags = [
 +++
 
 https://annapurnainteractive.com/games/outer-wilds
+Amazing game, wonderful world, best feeling of  exploration I have ever seen. Soundtrack fits nicely. Truly awe-inspiring world building and physics.
 <!--more-->
-
-## TL;DR
-Amazing game, wonderful world, best feeling of  exploration I have ever seen. Soundtrack fits nicely. Truly awe-inspiring world building and physics. Graphics are kind of meh.
 
 ## Core Gameplay
 You pilot your space-ship around a solar system and explore various planets. After landing on a planet, you find artifacts, buildings and writings of civilizattions past. Thus you begin to learn about the the world. It doesn't matter to which planets you go and in what order.
