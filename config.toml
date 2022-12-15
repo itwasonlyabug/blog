@@ -47,12 +47,27 @@ title = "ORCID"
 url = "https://orcid.org/0000-0001-2345-6789"
 
 [menu]
-#
-#  [[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about/"
-#    weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+  [[menu.main]]
+    identifier = "entertainment"
+    name = "Entertainment"
+    url = "/entertainment/"
+    weight = 20
+  [[menu.main]]
+    identifier = "it"
+    name = "IT"
+    url = "/it/"
+    weight = 30
+  [[menu.main]]
+    identifier = "all-posts"
+    name = "All posts"
+    url = "/allposts/"
+    weight = 40
 
 [taxonomies]
 category = "categories"
