@@ -1,6 +1,6 @@
 /* Fonts */
 :root {
-    --font-monospace: "Bahnschrift";
+    --font-monospace: "Roboto Condensed", monospace;
 }
 
 body {
